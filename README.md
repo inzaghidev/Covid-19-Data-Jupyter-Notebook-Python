@@ -14,13 +14,13 @@ Untuk Tampilan Demo-nya, bisa dilihat di Google Colabs di sini :
    Untuk Laman ini, dikhususkan untuk Data Statistik COVID-19 di Wilayah Indonesia. Sumber Data untuk COVID-19 Wilayah Indonesia :
   - https://www.covid19.go.id
   - https://vaksin.kemkes.go.id
-\
+.
 2. Seluruh Dunia \
    Untuk Laman ini, dikhususkan untuk Data Statistik COVID-19 di Seluruh Dunia. Sumber Data untuk COVID-19 Seluruh Dunia :
   - https://www.worldometers.info/coronavirus
   - https://ncov2019.live
   - https://ourworldindata.org/covid-vaccinations
-\
+.
 ## Link Google Sheets
 
 * Indonesia : https://docs.google.com/spreadsheets/d/1LfZ0MzwjKfDwXFw_yxqw78UuDnWEi0F9/edit#gid=1317209968
