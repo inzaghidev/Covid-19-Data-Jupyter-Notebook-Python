@@ -23,9 +23,8 @@ Untuk Tampilan Demo-nya, bisa dilihat di Google Colabs di sini :
 \
 ## Link Google Sheets
 
-Indonesia : https://docs.google.com/spreadsheets/d/1LfZ0MzwjKfDwXFw_yxqw78UuDnWEi0F9/edit#gid=1317209968
-\
-Seluruh Dunia : https://docs.google.com/spreadsheets/d/1tWFtz3tJlceUsbbC02LbFeD8IFUGbWPT/edit#gid=892898073
+* Indonesia : https://docs.google.com/spreadsheets/d/1LfZ0MzwjKfDwXFw_yxqw78UuDnWEi0F9/edit#gid=1317209968
+* Seluruh Dunia : https://docs.google.com/spreadsheets/d/1tWFtz3tJlceUsbbC02LbFeD8IFUGbWPT/edit#gid=892898073
 
 # Description
 
