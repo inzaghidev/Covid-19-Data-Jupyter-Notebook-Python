@@ -10,12 +10,12 @@ Untuk Tampilan Demo-nya, bisa dilihat di Google Colabs di sini :
 
 ## Sumber Data
 
-1. Indonesia
+1. Indonesia \
    Untuk Laman ini, dikhususkan untuk Data Statistik COVID-19 di Wilayah Indonesia. Sumber Data untuk COVID-19 Wilayah Indonesia :
   - https://www.covid19.go.id
   - https://vaksin.kemkes.go.id
 
-2. Seluruh Dunia
+2. Seluruh Dunia \
    Untuk Laman ini, dikhususkan untuk Data Statistik COVID-19 di Seluruh Dunia. Sumber Data untuk COVID-19 Seluruh Dunia :
   - https://www.worldometers.info/coronavirus
   - https://ncov2019.live
