@@ -36,6 +36,7 @@ Berikut ini adalah Kurva Kasus, Testing, dan Vaksinasi COVID-19 untuk di Wilayah
 Berikut ini adalah Kurva Kasus, Testing, dan Vaksinasi COVID-19 untuk di Wilayah Indonesia.
 \
 \
+.
 ## COVID-19 di Seluruh Dunia
 
 Berikut ini adalah Kurva Kasus, Testing, dan Vaksinasi COVID-19 untuk di Seluruh Dunia.
