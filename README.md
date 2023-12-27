@@ -4,6 +4,9 @@
 
 Merupakan Data Statistik COVID-19 yang pernah di-Update selama 3 Tahun terakhir (2020-2023) di Inzaghi's Blog (Legacy) dan Inzaghi's Sites (Google Sites). Data Statistik COVID-19 ini akan dibuat dengan menggunakan Python di Jupyter Notebook, dan ditampikan di Google Colab.
 
+Link Google Drive (Untuk semua File-file termasuk Jupyter Notebook, CSV, dll) :
+- https://drive.google.com/drive/folders/1RHQoyXZzo6uNGIbj0f26nCbJjs320qKz
+
 # Notes
 
 Untuk Tampilan Demo-nya, bisa dilihat di Google Colabs di sini :
